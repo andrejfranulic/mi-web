@@ -1,0 +1,23 @@
+.interior {
+    display: block;
+}
+
+.pie {
+    width: 100%;
+    height: 50px;
+    background-color: pink;
+    padding: 27px;
+}
+.cuerpo {
+    width: 100%;
+    background-color: rgb(157, 245, 157);
+    padding: 12px;
+}
+
+.cuerpo div {
+    display: inline-block;
+    background-color: whitesmoke;
+    margin: 3px;
+    padding: 12px;
+}
+
