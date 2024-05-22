@@ -1,6 +1,4 @@
-.interior {
-    display: block;
-}
+
 
 .pie {
     width: 100%;
@@ -20,4 +18,6 @@
     margin: 3px;
     padding: 12px;
 }
-
+.interior {
+    display: block;
+}
